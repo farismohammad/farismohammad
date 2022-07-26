@@ -1,8 +1,10 @@
-<h1>Hi there! <br/> My first birhday gift was the name Faris</h1>
+<h1>Hi there! <br/> My first birthday gift was the name Faris</h1>
 	
 I am passionate about security, psycholgy and diving head-first into rabbit holes.
 
 Ill be journaling eveything i do to upskill myself.
+
+<a href="https://www.linkedin.com/in/fmoham6875/">Linkedin</a>
 
 (this page will definitely be getting updated.)
 
