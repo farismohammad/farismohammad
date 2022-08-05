@@ -2,11 +2,15 @@
 	
 I am passionate about security, psycholgy and diving head-first into rabbit holes.
 
-Ill be journaling eveything i do to upskill myself.
+I am an engineer by training but love the the field of IT. In my free time I am usually playing CTFs or studying, sometimes both. <br>
+I love doing forensics type of work. Theres real art in creating a narrative from little pieces of information.
 
-<a href="https://www.linkedin.com/in/fmoham6875/">Linkedin</a>
+<h3>Connect with me</h3>
 
-(this page will definitely be getting updated.)
+<a href="https://www.linkedin.com/in/fmoham6875/">Linkedin</a> <br>
+<a href="https://twitter.com/i4n4atuta">Twitter</a>
+
+
 
 <!---
 farismohammad/farismohammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
