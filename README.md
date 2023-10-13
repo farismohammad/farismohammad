@@ -1,14 +1,11 @@
-<h1>Hi there! <br/> My first birthday gift was the name Faris</h1>
+<h1>Hi there!</h1>
 	
-I am passionate about security, psycholgy and diving head-first into rabbit holes.
-
-I am an engineer by training but love the the field of IT. In my free time I am usually playing CTFs or studying, sometimes both. <br>
-I love doing forensics type of work. Theres real art in creating a narrative from little pieces of information.
+Hey there! I'm Faris, a creative problem solver and a passionate cybersecurity researcher. I'm on a mission to explore the intricate world of cybersecurity while always keeping an eye on what makes us uniquely human. With a diverse range of interests—from military strategy to astrophysics to farming—I bring a fresh perspective to problem-solving.
 
 <h3>Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/fmoham6875/">Linkedin</a> <br>
-<a href="https://twitter.com/i4n4atuta">Twitter</a>
+<a href="https://www.linkedin.com/in/farismohammad/">Linkedin</a> <br>
+<a href="https://pixelatedspace.me">Website</a>
 
 
 
